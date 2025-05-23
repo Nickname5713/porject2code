@@ -1,0 +1,32 @@
+H:\Programming\project\project\bin\Debug\project.exe.config
+H:\Programming\project\project\bin\Debug\project.exe
+H:\Programming\project\project\bin\Debug\project.pdb
+H:\Programming\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+H:\Programming\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+H:\Programming\project\project\obj\Debug\project.Form1.resources
+H:\Programming\project\project\obj\Debug\project.Properties.Resources.resources
+H:\Programming\project\project\obj\Debug\project.csproj.GenerateResource.cache
+H:\Programming\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+H:\Programming\project\project\obj\Debug\project.exe
+H:\Programming\project\project\obj\Debug\project.pdb
+H:\Programming\project\project\obj\Debug\project.Form2.resources
+H:\Programming\project\project\obj\Debug\project.Form3.resources
+H:\Programming\project\project\obj\Debug\project.Form4.resources
+H:\Programming\project\project\obj\Debug\project.Form5.resources
+H:\Programming\project\project\obj\Debug\project.Form6.resources
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\bin\Debug\project.exe.config
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\bin\Debug\project.exe
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\bin\Debug\project.pdb
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.exe.config
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.Form1.resources
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.Form2.resources
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.Form3.resources
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.Form4.resources
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.Form5.resources
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.Form6.resources
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.exe
+C:\Users\Not Vaishali\source\repos\porject2code1\project\project\obj\Debug\project.pdb
